@@ -10,7 +10,7 @@
 
 實際呈現在畫面中的效果如下：
 
-first item
-second item
-third item
+·first item
+·second item
+·third item
 ```
